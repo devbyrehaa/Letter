@@ -15,16 +15,18 @@ A simple and aesthetic Love Letter website built using HTML, CSS, and JavaScript
 - CSS3
 - JavaScript
 
-## 📂 Installation
+## 🚀 How to Use
 
-1. Clone the repository
+1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/love-letter.git
    ```
 
 2. Open the project folder.
 
-3. Run `index.html` in your browser.
+3. Double-click `index.html` or open it with **Live Server** in VS Code.
+
+That's it! 🎉
 
 ## ❤️ Support
 
